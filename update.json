@@ -1,8 +1,5 @@
 {
-	"version" : "1.2",
-	"token" : "dheni@9",
-	"firmware_url" : "https://raw.githubusercontent.com/ppgandisetiawan01430-spec/iotdheni/main/sketch_aug30e.ino.bin"
-
+  "version": "1.4",
+  "token": "dheni@9",
+  "firmware_url": "https://raw.githubusercontent.com/ppgandisetiawan01430-spec/iotdheni/main/sketch_aug30e.ino.bin"
 }
-
-
